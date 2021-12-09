@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Atreat738/Battleship/issues"
   },
-  "homepage": "https://github.com/Atreat738/Battleship#readme"
+  "homepage": "https://github.com/Atreat738/Battleship#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
 }
